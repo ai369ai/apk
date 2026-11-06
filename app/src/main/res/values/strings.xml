@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Countdown Lock Screen</string>
+    <string name="widget_name">Countdown Lock Screen Widget</string>
+    <string name="widget_description">Shows live countdown clock on your lock screen and home screen.</string>
+    <string name="wallpaper_name">Countdown 3D Live Wallpaper</string>
+    <string name="wallpaper_description">Interactive 3D Countdown Lock Screen with real-time clock, milestones, and smooth ambient motion.</string>
+    <string name="set_wallpaper">Set as Lock Screen Wallpaper</string>
+</resources>

@@ -1,0 +1,14 @@
+# Build artifacts
+build/
+app/build/
+*.apk.idsig
+
+# Gradle
+.gradle/
+
+# IDE / Android Studio
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+local.properties
